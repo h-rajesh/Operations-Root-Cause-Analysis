@@ -1,0 +1,5 @@
+Root Cause Hypothesis,Evidence to Collect,Proposed Action,Owner,Priority,Status
+Uneven workload allocation,Hourly volume by work area and staffing roster,Review allocation at shift start and mid-shift,Shift Lead,High,Proposed
+Equipment downtime,Downtime log and maintenance records,Track downtime and define escalation owner,Equipment Coordinator,High,Proposed
+Unclear process sequence,Process walk and operator feedback,Document standard work sequence,Operations Lead,Medium,Proposed
+Input/material availability,Shortage log and replenishment timestamps,Set replenishment trigger and visual signal,Inventory Owner,Medium,Proposed
